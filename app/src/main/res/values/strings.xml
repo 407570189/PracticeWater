@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticeWater</string>
+    <string name="action_settings">Settings</string>
+    <string name="every_other_month">Every_other_Month</string>
+    <string name="monthly">Monthly</string>
+    <string name="fee">fee</string>
+</resources>
